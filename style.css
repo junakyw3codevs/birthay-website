@@ -1,0 +1,112 @@
+ /* default css */
+ 
+ .section-padding{
+     padding: 100px;
+ }
+ .section-margin{
+     margin: 100px;
+ }
+
+ /* slide 1 css */
+
+ .featured-work img{
+    height: 315px;
+    width: 315px;
+    border-radius: 20px 85px;
+}
+.slick1 h3{
+    text-align: center;
+    font-size: 33px;
+    font-weight: 700;
+    color: #343673;
+}
+.slick1 p{
+    text-align: center;
+    font-size: 16px;
+    color: cadetblue;
+    margin-bottom: 52px;
+}
+/* slide 2 css */
+
+section.slide2 {
+    background:  #00cdcd;
+    text-align: center;
+}
+.slide2 h1{
+    font-size: 53px;
+    font-weight: 700;
+    color: rgb(23, 11, 37);
+    line-height: 76px;
+    padding: 5px;
+}
+.slide2 span{
+    color: #fff;
+}
+.slide2 p{
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    padding-bottom: 24px;
+}
+.col-md-2{
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 35px;
+    height: 255px;
+}
+.col-md-2 h4{
+    color: #00cdcd;
+    text-transform: capitalize;
+}
+.col-md-2 .fas{
+    color:  #00cdcd;
+    font-size: 52px;
+    padding: 12px;
+}
+.col-md-2 p{
+    color: rgb(58, 54, 54);
+    padding: 10px;
+}
+
+/* slide 3 css */
+
+.screenshoots img{
+    height: 250px;
+}
+.slide3 p{
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    padding-bottom: 24px;
+}
+section.slide3{
+    text-align: center;
+    background-image: url(../images/slider-3/gray-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh
+}
+
+.slide3 h1{
+    font-size: 53px;
+    font-weight: 700;
+    color: #303952;
+    line-height: 76px;
+    padding: 5px;
+}
+
+.slide3 span{
+    color:  #00cdcd;
+}
+
+/* slide 4 css */
+
+.sponsors-1 img{
+    height: 300px;
+    width: 301px;
+    padding: 20px;
+}
+.sponsors-1 .slick-center img{
+    transform: scale(1.2);
+}
